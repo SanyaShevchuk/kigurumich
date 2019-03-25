@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Bitter';
+src: url('bitter_italic.woff2')/*tpa=http://s.lpmtr.ru/web/user/fonts/bitter/bitter_italic.woff2*/ format('woff2'); url('bitter_italic.woff')/*tpa=http://s.lpmtr.ru/web/user/fonts/bitter/bitter_italic.woff*/ format('woff');
+font-weight: 400;
+font-style: italic;
+font-display: swap;
+}

@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Roboto';
+src: url('roboto_bold.woff')/*tpa=http://s.lpmtr.ru/web/user/fonts/roboto/roboto_bold.woff*/ format('woff'); url('roboto_bold.ttf')/*tpa=http://s.lpmtr.ru/web/user/fonts/roboto/roboto_bold.ttf*/ format('ttf');
+font-weight: 700;
+font-style: normal;
+font-display: swap;
+}
